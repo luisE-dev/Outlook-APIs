@@ -1,5 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-![picture](img/Outlook-logo.png)
+![outlook-logo](https://github.com/BeiliLu1986/Outlook-APIs/public/img/Outlook-logo.png)
 
 ## Write a PHP app to get Outlook mail, calendar, and contacts
 
