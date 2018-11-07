@@ -1,4 +1,5 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="/img/Outlook-logo.png"></p>
 
 ## Write a PHP app to get Outlook mail, calendar, and contacts
 
